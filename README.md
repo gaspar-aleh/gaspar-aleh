@@ -1,6 +1,7 @@
 ### Olá, eu sou ALef Gaspar.
 
 - 📚  Estou atualmente apredendo Typescript.
+- 🧙  Apaixonado por World of Warcraft
 - 🙋‍♂️  Em Busca de uma oportunidade para transição de carreira.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contato.alefgaspar@gmail.com)
@@ -19,3 +20,4 @@
 </div>
 <br/>
 Nerd de carteirinha, apaixonado por tecnologia e sempre disposto a aprender algo novo.
+
